@@ -2,6 +2,10 @@
 
 An openFrameworks application that demonstrates the following image filters; greyscale, invert, brightness, and edge detection. The application also demonstrates a custom image filter that I created. 
 
+**Video demo:** https://vimeo.com/436801188
+
+![](preview.gif)
+
 **Prerequisites:** openFrameworks
 
 **Step 1:** Download [openFrameworks](https://openframeworks.cc/download/) and follow the setup guide for your OS and IDE.
